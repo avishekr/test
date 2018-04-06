@@ -1,11 +1,6 @@
 package com.avishek.org;
 
 public class StringReplace {
-
-	public static String encodeStringChars(int offset, String str){
-		return str;
-		
-	}
 	
 	public String charEncode(int offset, String str){  
 	      String result = "";
